@@ -22,3 +22,9 @@ input,textarea{padding:10px;border-radius:8px;border:1px solid #e6e9ef;width:100
 footer{padding:18px;text-align:center;color:#6b7280;margin-top:14px}
 .fab{position:fixed;right:18px;bottom:18px;background:#25D366;color:#fff;border-radius:50%;width:56px;height:56px;display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:22px;box-shadow:0 6px 18px rgba(37,211,102,0.24)}
 @media(min-width:900px){.hero .lead{font-size:32px}}
+.technician-photo {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
